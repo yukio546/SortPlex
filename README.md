@@ -1,2 +1,2 @@
 # SortPlex
-A Moderation Plugin Replacement for Essentails X
+A Moderation Plugin and replacement for Essentails X
